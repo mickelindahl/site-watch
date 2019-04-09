@@ -1,0 +1,2 @@
+* * * * * root cd /opt/repos/site-watch && ./test-url.sh {domain.to.check} {status-code-ok} {yes|no to run install} {directory-to-install.sh} {user-run-install-as} {container-name-1} {container-name-2} 
+* * * * * root cd /opt/repos/site-watch && ./test-url.sh {domain.to.check} {status-code-ok} 
